@@ -62,7 +62,7 @@ void main() {
     expect(student2Field, findsOneWidget);
     expect(groupAction, findsOneWidget);
 
-    await tester.enterText(groupField, "-test");
+    await tester.enterText(groupField, "Group-test");
     await tester.enterText(student1Field, "Student1-Test");
     await tester.enterText(student2Field, "Student1-Test");
     await tester.tap(groupAction);
