@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410023098848",
+    "project_id": "nivelacionmisiontic",
+    "storage_bucket": "nivelacionmisiontic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410023098848:android:e63dcfbb21225657bbd385",
+        "android_client_info": {
+          "package_name": "com.example.misiontic_team_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410023098848-t7l4jkjo4f4vi68q3rmh5kuvfkqh5lqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFkVH9SAcXjAdq8InqniQcBA7PgABzaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410023098848-t7l4jkjo4f4vi68q3rmh5kuvfkqh5lqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
